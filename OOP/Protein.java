@@ -9,3 +9,4 @@ class Protein extends Ing {
     }
 
 }
+
